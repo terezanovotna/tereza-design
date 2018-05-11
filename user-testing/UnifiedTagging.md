@@ -33,3 +33,65 @@ Now we’ll start the test! We will start on an interface where the user has sel
 ![Apply3](img/Apply3.png)
 
 ![Apply4](img/Apply4.png)
+
+* How would you describe how difficult or easy it was to complete this task? (Very Difficult - Very Easy)
+* How satisfied are you with using this application to complete this task? (Very Dissatisfied - Very Satisfied)
+* How would you rate the amount of time it took to complete this task? (Too Much Time - Very Little Time)
+* Did you understand how to add a new tag?
+* Was it easy enough for you to assign the tag?
+* Can you think of any use case when you assign a tag to an attribute?
+
+
+## Task 2
+*For the next task, you want to add a location tag. In this case, the VM is located in both Paris and Rome. Please add an appropriate tag.*
+
+
+![Morevalues2](img/morevalues2.png)
+
+![Morevalues3](img/morevalues3.png)
+
+![Morevalues4](img/morevalues4.png)
+
+![Morevalues5](img/morevalues5.png)
+
+![Morevalues6](img/morevalues6.png)
+
+* How would you describe how difficult or easy it was to complete this task? (Very Difficult - Very Easy)
+* How satisfied are you with using this application to complete this task? (Very Dissatisfied - Very Satisfied)
+* How would you rate the amount of time it took to complete this task? (Too Much Time - Too Little Time)
+* Is there any use case when you would want to use a free form tag? (Any example when any of these - key, value - is missing? Do you use it?)
+
+## User Interview
+*You have just experienced “On-the-fly” tagging, which means tags are added and modified on the fly without a centralized location.*
+
+![Central1](img/central1.png)
+
+![Central2](img/central2.png)
+
+* Which method do you prefer, centralized location for tagging or on-the-fly tagging?
+* Can you think of any scenario where centralized tagging would be beneficial?
+* What other actions would you like to be available with tags?
+
+## Task 3
+*In this task you have searched using the tags shown in the search bar. You get the results shown. Can you create a new tag, Department - Accounting, and apply it to already found VMs?*
+
+![Relationship1](img/relationship1.png)
+
+![Relationship2](img/relationship2.png)
+
+![Relationship3](img/relationship3.png)
+
+![Relationship4](img/relationship4.png)
+
+![Relationship5](img/relationship5.png)
+
+* How would you describe how difficult or easy it was to complete this task? (Very Difficult - Very Easy)
+* How satisfied are you with using this application to complete this task? (Very Dissatisfied - Very Satisfied)
+* How would you rate the amount of time it took to complete this task? (Too Much Time - Too Little Time)
+* Can they figure out how to search by tags?
+* Do they like searching by tags?
+* Can they create on a new value element on the fly
+* Is it easy to define a new value on the fly?
+
+## Task 4
+*In this task you will be switching your view to Topology view. Once you do so, do you find this view valuable? Can you remove Cost Center tag?*
