@@ -95,3 +95,26 @@ Now we’ll start the test! We will start on an interface where the user has sel
 
 ## Task 4
 *In this task you will be switching your view to Topology view. Once you do so, do you find this view valuable? Can you remove Cost Center tag?*
+
+![Topology1](img/topology1.png)
+
+![Topology2](img/topology2.png)
+
+![Topology3](img/topology3.png)
+
+
+* How would you describe how difficult or easy it was to complete this task? (Very Difficult - Very Easy)
+* How satisfied are you with using this application to complete this task? (Very Dissatisfied - Very Satisfied)
+* How would you rate the amount of time it took to complete this task? (Too Much Time - Very Little Time)
+* Can they figure out how to switch a view to Topology View?
+* Have you used Topology view before?
+* If yes...what do you like / dislike about Topology View?
+* Does the Topology view provide new information? Is it helpful to see the connections in this context?
+* When you removed the Cost Center tag, you got different results that were reflected in this view. Is this a relevant information to see?
+* Is it easy to see connection between elements displayed on the topology view? What use cases do you use topology view in?
+
+## Follow-up questions
+* The tagging control helped me narrow down the data set I was viewing. (Strongly Disagree - Strongly Agree)
+* I found the interface to be consistent. (Strongly Disagree - Strongly Agree)
+* Interacting with the tagging control was complicated.(Strongly Disagree - Strongly Agree)
+* I understood how to interact with and navigate through the tagging control. (Strongly Disagree - Strongly Agree)
